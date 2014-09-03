@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		89AA9ECA19B7855A00AFD931 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89AA9EC919B7855A00AFD931 /* Media.xcassets */; };
 		89F8C2F819B67F3D00AB232C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89F8C2F719B67F3D00AB232C /* Foundation.framework */; };
 		89F8C2FA19B67F3D00AB232C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89F8C2F919B67F3D00AB232C /* CoreGraphics.framework */; };
 		89F8C2FC19B67F3D00AB232C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89F8C2FB19B67F3D00AB232C /* UIKit.framework */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		89AA9EC919B7855A00AFD931 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		89F8C2F419B67F3D00AB232C /* Designer Articles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Designer Articles.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		89F8C2F719B67F3D00AB232C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		89F8C2F919B67F3D00AB232C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -84,6 +86,7 @@
 		89F8C2EB19B67F3D00AB232C = {
 			isa = PBXGroup;
 			children = (
+				89AA9EC919B7855A00AFD931 /* Media.xcassets */,
 				89F8C2FD19B67F3D00AB232C /* Designer Articles */,
 				89F8C31F19B67F3D00AB232C /* Designer ArticlesTests */,
 				89F8C2F619B67F3D00AB232C /* Frameworks */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89AA9ECA19B7855A00AFD931 /* Media.xcassets in Resources */,
 				89F8C30E19B67F3D00AB232C /* Main_iPad.storyboard in Resources */,
 				89F8C31319B67F3D00AB232C /* Images.xcassets in Resources */,
 				89F8C30B19B67F3D00AB232C /* Main_iPhone.storyboard in Resources */,
@@ -470,6 +474,7 @@
 				89F8C32B19B67F3D00AB232C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		89F8C32C19B67F3D00AB232C /* Build configuration list for PBXNativeTarget "Designer ArticlesTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +483,7 @@
 				89F8C32E19B67F3D00AB232C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
