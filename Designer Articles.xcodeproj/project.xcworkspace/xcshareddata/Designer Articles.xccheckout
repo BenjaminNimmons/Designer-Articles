@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3C2D79EB-CB79-45EF-A5B8-52C516413AAD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Designer Articles</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DA636070-6846-4AD8-94A7-7B8C54A0098D</key>
+		<string>https://github.com/BenjaminNimmons/Designer-Articles.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Designer Articles.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>810C822E-2A63-434F-B552-D51612DADB67</key>
+		<string>../../Designer Articles</string>
+		<key>DA636070-6846-4AD8-94A7-7B8C54A0098D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/BenjaminNimmons/Designer-Articles.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA636070-6846-4AD8-94A7-7B8C54A0098D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>810C822E-2A63-434F-B552-D51612DADB67</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Designer Articles</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA636070-6846-4AD8-94A7-7B8C54A0098D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DesignerArticles</string>
+		</dict>
+	</array>
+</dict>
+</plist>
